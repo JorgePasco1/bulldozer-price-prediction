@@ -2,6 +2,12 @@
 
 In this project, we'll use a [Bulldozer Price dataset](https://www.kaggle.com/c/bluebook-for-bulldozers/) taken from Kaggle, to create a regression machine learning model that will predict the auction price of a bulldozer, given different factors, such as different machine configurations and year of manufacturing.
 
+Take a look at the [finished notebook](https://github.com/JorgePasco1/bulldozer-price-prediction/blob/master/bulldozer-price-regression.ipynb).
+
+## Getting the data
+
+You can download the full data from the link mentioned above. Or you can download this [zip](https://drive.google.com/file/d/1tFbU1bma3t6o8xAcR0_o7YRRROUhy-HG/view?usp=sharing) with the used files and the correct folder structure for the Notebook.
+
 ## Installation
 
 First, clone this repository to your machine:
